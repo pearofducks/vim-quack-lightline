@@ -69,3 +69,7 @@ function! LLFilename()
        \ ('' != LLModified() ? ' ' . LLModified() : '')
 endfunction
 ```
+
+## Other screenshots
+
+Other images of the theme in action can be found [here.](http://imgur.com/a/nJCvp)
