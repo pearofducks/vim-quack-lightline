@@ -7,8 +7,9 @@ A lightline theme with solarized colors
 
 ## Installation
 
-1. Add this repo to your favorite vim plugin manager.
-2. If you like the way the screenshots look, you'll want to add this block to your .vimrc:
+1. Make sure you've already installed [vim-airline.](https://github.com/bling/vim-airline)
+2. Add this repo to your favorite vim plugin manager.
+3. If you like the way the screenshots look, you'll want to add this block to your .vimrc:
 ```
 let g:lightline = {
       \ 'colorscheme': 'quack',
