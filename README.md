@@ -1,6 +1,10 @@
 vim-quack-lightline
 ===================
 
+A lightline theme with solarized colors
+
+![screenshot](http://i.imgur.com/wqMZbwl.png "plugin screenshot")
+
 ## Installation
 
 1. Add this repo to your favorite vim plugin manager.
